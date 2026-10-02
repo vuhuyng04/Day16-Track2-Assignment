@@ -1,0 +1,14 @@
+{
+  "instance": "t3.medium (2 vCPU, 4GB RAM)",
+  "data_load_time_s": 2.498,
+  "training_time_s": 5.524,
+  "best_iteration": 64,
+  "auc_roc": 0.976684,
+  "accuracy": 0.999456,
+  "f1_score": 0.828729,
+  "precision": 0.903614,
+  "recall": 0.765306,
+  "inference_latency_1row_ms": 1.251,
+  "inference_1000rows_s": 0.0031,
+  "throughput_rows_per_s": 319960.6
+}
